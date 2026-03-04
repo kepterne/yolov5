@@ -1,0 +1,46 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- A
+- B
+- C
+- D
+- E
+- F
+- G
+- H
+- I
+- J
+- K
+- L
+- M
+- N
+- O
+- P
+- R
+- S
+- T
+- U
+- V
+- W
+- X
+- Y
+- Z
+nc: 35
+roboflow:
+  license: CC BY 4.0
+  project: plaka-cript-uejoo
+  url: https://universe.roboflow.com/plaka-54nvh/plaka-cript-uejoo/dataset/2
+  version: 2
+  workspace: plaka-54nvh
+test: ../test/images
+train: plaka-2/train/images
+val: plaka-2/valid/images
